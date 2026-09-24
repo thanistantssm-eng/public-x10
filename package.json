@@ -1,0 +1,9 @@
+{
+  "name": "x10think-public-v7",
+  "version": "7.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes http-server . -p 8080 -c-1",
+    "dev": "npm start"
+  }
+}

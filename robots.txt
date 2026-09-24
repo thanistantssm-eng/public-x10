@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /storage/
+Disallow: /download.php
+Sitemap: https://x10think.online/sitemap.xml
